@@ -9,4 +9,5 @@
 * <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%201/07.md">1.7 统计一段文本中各个数字、空白符（空格符、制表符及换行符）以及所有其他字符出现的次数。</a>
 * <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%201/08.md">1.8 读入一组文本行，并把最长的文本行打印出来。如果存在多个最长的文本行，则打印最后一个文本行。</a>
 * <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%201/09.md">1.9 修改1.8中的程序，使得程序可以打印任意长度的输入行的长度，并尽可能多地打印文本信息。</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%201/10.md">1.10 编写一个程序，删除每个输入行末尾的空格及制表符，并删除完全是空格的行。</a>
 
