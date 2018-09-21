@@ -1,6 +1,6 @@
 # 《C程序语言设计》源代码一览
 ## chap 1
-* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%201/01.md'>复制文本输入到输出</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%201/01.md">复制文本输入到输出</a>
 * <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%201/02.md">字符计数</a>
 * <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%201/03.md">行计数</a>
 * <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%201/04.md">编写一个将输入复制到输出的程序，并将其中连续的多个空格用一个空格代替。</a>
