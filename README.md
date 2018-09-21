@@ -1,11 +1,11 @@
 # 《C程序语言设计》源代码一览
 ## chap 1
-* 复制文本输入到输出
-* 字符计数
-* 行计数
-* 编写一个将输入复制到输出的程序，并将其中连续的多个空格用一个空格代替。
-* 单词计数
-* 编写一个程序，以每行一个单词的形式打印其输入。
-* 统计一段文本中各个数字、空白符（空格符、制表符及换行符）以及所有其他字符出现的次数。
-* 读入一组文本行，并把最长的文本行打印出来。如果存在多个最长的文本行，则打印最后一个文本行。
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%201/01.md'>复制文本输入到输出</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%201/02.md">字符计数</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%201/03.md">行计数</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%201/04.md">编写一个将输入复制到输出的程序，并将其中连续的多个空格用一个空格代替。</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%201/05.md">单词计数</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%201/06.md">编写一个程序，以每行一个单词的形式打印其输入。</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%201/07.md">统计一段文本中各个数字、空白符（空格符、制表符及换行符）以及所有其他字符出现的次数。</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%201/08.md">读入一组文本行，并把最长的文本行打印出来。如果存在多个最长的文本行，则打印最后一个文本行。</a>
 
