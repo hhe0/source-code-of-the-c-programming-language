@@ -12,4 +12,4 @@
 * <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%201/10.md">1.10 编写一个程序，删除每个输入行末尾的空格及制表符，并删除完全是空格的行。</a>
 * <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%201/11.md">1.11 编写函数reverse(s)，将字符串s中的字符顺序颠倒过来。使用该函数编写一个程序，每次颠倒一个输入行中的字符顺序。</a>
 * <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%201/12.md">编写程序detab，将输入中的制表符替换成适当数目的空格，使空格充满到下一个制表符终止位的地方。假设制表符终止位的位置是固定的，比如每隔n位就会出现一个制表符终止符。n应该作为变量还是符号变量呢？</a
-* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%201/13.md" style="color:red">编写程序entab，将空格串替换为最少数量的制表符和空格，但要保持单词之间的间隔不变。假设制表符终止位的位置与上一个detab程序相同。但要使用一个制表符或者一个空格都可以达到下一个制表符终止位时，选用哪一种替换字符比较好？</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%201/13.md">编写程序entab，将空格串替换为最少数量的制表符和空格，但要保持单词之间的间隔不变。假设制表符终止位的位置与上一个detab程序相同。但要使用一个制表符或者一个空格都可以达到下一个制表符终止位时，选用哪一种替换字符比较好？</a>
