@@ -22,3 +22,4 @@
 * <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%202/02.md">2.2 编写函数strlen()用于返回字符串的长度。</a>
 * <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%202/03.md">2.3 判断一个年份是闰年还是平年。</a>
 * <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%202/04.md">2.4 编写函数atoi()，将字符串s转换为相应的整型数。</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%202/05.md">2.5 编写函数lower()，将一个字符转换为小写形式。</a>
