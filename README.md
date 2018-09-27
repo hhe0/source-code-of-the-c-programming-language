@@ -19,3 +19,4 @@
 
 ## chap 2
 * <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%202/01.md">2.1 编写一个程序以确定分别由signed及unsigned限定的char、short、int与long类型变量的取值范围。采用打印标准头文件中的相应值以及直接计算两种方式实现。后一种方法的实现较困难一些，因为要确定各种浮点类型的取值范围。</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%202/02.md">2.2 编写函数strlen()用于返回字符串的长度。</a>
