@@ -14,3 +14,4 @@
 * <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%201/12.md">1.12 编写程序detab，将输入中的制表符替换成适当数目的空格，使空格充满到下一个制表符终止位的地方。假设制表符终止位的位置是固定的，比如每隔n位就会出现一个制表符终止符。n应该作为变量还是符号变量呢？</a>
 * <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%201/13.md">1.13 编写程序entab，将空格串替换为最少数量的制表符和空格，但要保持单词之间的间隔不变。假设制表符终止位的位置与上一个detab程序相同。但要使用一个制表符或者一个空格都可以达到下一个制表符终止位时，选用哪一种替换字符比较好？</a>
 * <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%201/14.md">1.14 编写一个程序，把较长的输入行“折”成短一些的两行或多行，折行的位置在输入行的第n列之前的最后一个非空格之后。要保证程序能够智能地处理输入行很长以及在指定的列前没有空格或制表符时的情况。</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%201/15.md">1.15 编写一个删除C语言程序中所有的注释语句。要正确处理带引号的字符串与字符常量。在C语言中，注释不允许嵌套。</a>
