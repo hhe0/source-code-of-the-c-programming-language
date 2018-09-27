@@ -16,3 +16,5 @@
 * <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%201/14.md">1.14 编写一个程序，把较长的输入行“折”成短一些的两行或多行，折行的位置在输入行的第n列之前的最后一个非空格之后。要保证程序能够智能地处理输入行很长以及在指定的列前没有空格或制表符时的情况。</a>
 * <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%201/15.md">1.15 编写一个删除C语言程序中所有的注释语句。要正确处理带引号的字符串与字符常量。在C语言中，注释不允许嵌套。</a>
 * <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%201/16.md">1.16 编写一个程序，查找C语言程序中的基本语法错误，如圆括号、方括号、花括号不配对等。要正确处理引号（包括单引号和双引号）、转义字符与注释。</a>
+
+## chap 2
