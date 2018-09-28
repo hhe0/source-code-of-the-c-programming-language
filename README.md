@@ -24,3 +24,4 @@
 * <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%202/04.md">2.4 编写函数atoi()，将字符串s转换为相应的整型数。</a>
 * <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%202/05.md">2.5 编写函数lower()，将一个字符转换为小写形式。</a>
 * <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%202/06.md">2.6 编写函数htoi()，把由十六进制数字组成的字符串（包括可选的前缀0x或0X）转换为与之等价的整型值。字符串中允许包含的数字包括：0-9、a-f以及A-F。</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%202/07.md">2.7 编写函数squeeze()，从字符串中删除字符c。</a>
