@@ -34,3 +34,5 @@
 * <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%202/14.md">2.14 编写一个函数rightrot(x, n)，该函数返回将x循环右移（即从最右端移出的位将从最左端移入）n（二进制）位后所得到的值。</a>
 * <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%202/15.md">2.15 编写bitcount函数：统计x中值为1的二进制位数。</a>
 * <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%202/16.md">2.16 在求对二的补码时，表达式x&=(x-1)可以删除x中最右边值为1的一个二进制位。请解释这样做的道理。用这一方法重写bitcount函数，以加快其执行速度。</a>
+
+## chap 3
