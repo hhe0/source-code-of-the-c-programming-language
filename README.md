@@ -28,3 +28,9 @@
 * <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%202/08.md">2.8 编写函数strcat()，将字符串t连接到字符串s的尾部，s必须有足够大的空间。</a>
 * <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%202/09.md">2.9 重新编写函数squeeze(s1, s2)，将字符串s1中任何与字符串s2中字符匹配的字符都删除。</a>
 * <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%202/10.md">2.10 编写函数any(s1, s2)，将字符串s2中的任一字符在字符串s1中第一次出现的位置作为结果返回。如果s1中不包含s2中的字符，则返回-1。（标准库函数strpbrk具有同样的功能，但它返回的是指向该位置的指针）。</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%202/11.md">2.11 编写函数getbits(unsigned x, int p, int n)，返回x中从第p位开始的n位。</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%202/12.md">2.12 编写一个函数setbits(x, p, n, y)，该函数返回对x执行下列操作后的结果值：将x中从第p位开始的n个（二进制）位设置为y中最右边n位的值，x的其余各位保持不变。</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%202/13.md">2.13 编写一个函数invert(x, p, n)，该函数返回对x执行下列操作后的结果值：将x中从第p位开始的nge（二进制）位求反（即，变成0,0变成1），x的其余各位保持不变。</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%202/14.md">2.14 编写一个函数rightrot(x, n)，该函数返回将x循环右移（即从最右端移出的位将从最左端移入）n（二进制）位后所得到的值。</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%202/15.md">2.15 编写bitcount函数：统计x中值为1的二进制位数。</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%202/16.md">2.16 在求对二的补码时，表达式x&=(x-1)可以删除x中最右边值为1的一个二进制位。请解释这样做的道理。用这一方法重写bitcount函数，以加快其执行速度。</a>
