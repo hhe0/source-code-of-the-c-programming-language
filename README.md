@@ -36,3 +36,14 @@
 * <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%202/16.md">2.16 在求对二的补码时，表达式x&=(x-1)可以删除x中最右边值为1的一个二进制位。请解释这样做的道理。用这一方法重写bitcount函数，以加快其执行速度。</a>
 
 ## chap 3
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%203/01.md">3.1 编写binsearch函数：在v[0]<=v[1]<=v[2]<=...<=v[n-1]中查找x。</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%203/02.md">3.2 编写一个函数escape(s, t)，将字符串t复制到字符串s中，并在复制过程中将换行符、制表符等不可见的字符分别转换\n、\t等相应的可见的转义字符序列。要求使用switch语句。再编写一个具有相反功能的函数，在复制过程中将转义字符序列转换为实际字符。</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%203/03.md">3.3 编写shellsort函数，：按递增顺序对v[0]...v[n-1]进行排序。</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%203/04.md">3.4 编写reverse()函数：倒置字符串s中各个字符的位置。</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%203/05.md">3.5 编写函数expand(s1, s2)，将字符串s1中类似于a-z一类的速记符号在字符串s2中扩展为等价的完整列表abc...xyz。该函数可以处理大小写字母和数字，并可以处理a-b-c、a-z0-9与-a-z等类似的情况。作为前导和尾随的-字符原样打印。</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%203/06.md">3.6 在数的对二补码表示中，我们编写的itoa函数处理最大的负数。请解释器原因。修改该函数使它在任何机器上都能打印出正确的值。</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%203/07.md">3.7 编写函数itob(n, s, b)，将整数n转换为以b为底的数，并将转换结果以字符的形式保存到字符串s中。例如，itob(n, s, 16)把整数n化成十六进制整数保存在s中。</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%203/08.md">3.8 修改itoa函数，使得该函数可以接受三个参数。其中，第三个参数为最小字段宽度。为了保证转换后所得的结果至少具有第三个参数指定的最小宽度，在必要时应在所得结果的左边填充一定的空格。</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%203/09.md">3.9 编写trim函数：删除字符串尾部的空格符、制表符与换行符。</a>
+
+## chap 4
