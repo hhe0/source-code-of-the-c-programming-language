@@ -53,3 +53,5 @@
 * <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%204/04.md">4.4 对atof函数进行扩充，使它可以处理形如123.45e-6的科学表示法，其中，浮点数后面可能会紧跟一个E或者e以及一个指数（可能有正负号）。</a>
 * <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%204/05.md">4.5 编写计算器程序用来处理逆波兰表示法表示的四则运算。</a>
 * <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%204/06.md">4.6 在有了基本框架后，对计算器程序进行扩充就比较简单了。在该程序中加入取模(%)运算符，并注意考虑负数的情况。</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%204/07.md">4.7 在栈操作中添加几个命令，分别用于在不弹出元素的情况下打印栈顶元素；复制栈顶元素；交换栈顶两个元素的值。另外增加一个命令用于清空栈。</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%204/08.md">4.8 给计算器程序增加访问sin、exp与pow等库函数的操作。</a>
