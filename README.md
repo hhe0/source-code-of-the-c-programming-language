@@ -47,9 +47,9 @@
 * <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%203/09.md">3.9 编写trim函数：删除字符串尾部的空格符、制表符与换行符。</a>
 
 ## chap 4
-<a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%204/01.md">4.1 编写程序查找字符串中某个字符模式匹配的次数。</a>
-<a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%204/02.md">4.2 编写函数strindex(s, t)，它返回字符串t在s中最右边出现的位置。如果s中不包含t，则返回-1。</a>
-<a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%204/03.md">4.3 编写atof函数，把字符串s转换为相应的双精度浮点数。</a>
-<a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%204/04.md">4.4 对atof函数进行扩充，使它可以处理形如123.45e-6的科学表示法，其中，浮点数后面可能会紧跟一个E或者e以及一个指数（可能有正负号）。</a>
-<a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%204/05.md">4.5 编写计算器程序用来处理逆波兰表示法表示的四则运算。</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%204/01.md">4.1 编写程序查找字符串中某个字符模式匹配的次数。</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%204/02.md">4.2 编写函数strindex(s, t)，它返回字符串t在s中最右边出现的位置。如果s中不包含t，则返回-1。</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%204/03.md">4.3 编写atof函数，把字符串s转换为相应的双精度浮点数。</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%204/04.md">4.4 对atof函数进行扩充，使它可以处理形如123.45e-6的科学表示法，其中，浮点数后面可能会紧跟一个E或者e以及一个指数（可能有正负号）。</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%204/05.md">4.5 编写计算器程序用来处理逆波兰表示法表示的四则运算。</a>
 
