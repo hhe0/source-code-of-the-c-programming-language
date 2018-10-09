@@ -52,4 +52,4 @@
 * <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%204/03.md">4.3 编写atof函数，把字符串s转换为相应的双精度浮点数。</a>
 * <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%204/04.md">4.4 对atof函数进行扩充，使它可以处理形如123.45e-6的科学表示法，其中，浮点数后面可能会紧跟一个E或者e以及一个指数（可能有正负号）。</a>
 * <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%204/05.md">4.5 编写计算器程序用来处理逆波兰表示法表示的四则运算。</a>
-* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%204/05.md">4.6 在有了基本框架后，对计算器程序进行扩充就比较简单了。在该程序中加入取模(%)运算符，并注意考虑负数的情况。</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%204/06.md">4.6 在有了基本框架后，对计算器程序进行扩充就比较简单了。在该程序中加入取模(%)运算符，并注意考虑负数的情况。</a>
