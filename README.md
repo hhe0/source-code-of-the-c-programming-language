@@ -55,3 +55,14 @@
 * <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%204/06.md">4.6 在有了基本框架后，对计算器程序进行扩充就比较简单了。在该程序中加入取模(%)运算符，并注意考虑负数的情况。</a>
 * <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%204/07.md">4.7 在栈操作中添加几个命令，分别用于在不弹出元素的情况下打印栈顶元素；复制栈顶元素；交换栈顶两个元素的值。另外增加一个命令用于清空栈。</a>
 * <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%204/08.md">4.8 给计算器程序增加访问sin、exp与pow等库函数的操作。</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%204/09.md">4.9 给计算器程序增加处理变量的命令（提供26个具有单个英文字母变量名的变量很容易）。增加一个变量存放最近打印的值。</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%204/10.md">4.10 编写一个函数ungets(s)，将整个字符串s压回到输入中。ungets函数需要使用buf和bufp吗？它能否仅使用ungetch函数？</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%204/11.md">4.11 假定最多只压入一个字符。请相应地修改getch与ungetch这两个函数。</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%204/12.md">4.12 以上介绍的getch和ungetch函数不能正确地处理压回的EOF。考虑压回EOF时应该如何处理？请实现你的设计方案。</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%204/13.md">4.13 另一种方法是通过getline函数读入整个输入行，这种情况下可以不使用getch与ungetch函数。请运用这一方法修改计算器程序。</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%204/14.md">4.14 修改getop函数，使其不必使用ungetch函数。提示：可以使用一个static类型的内部变量解决该问题。</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%204/15.md">4.15 将一个数字作为字符串以相反的次序打印出来。</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%204/16.md">4.16 编写qsort函数：以递增顺序对v[left]...v[right]进行排序。</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%204/17.md">4.17 运用printd函数的设计思想编写一个递归版本的itoa函数，即通过递归调用把整数转换为字符串。</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%204/18.md">4.18 编写一个递归版本的reverse(s)函数，以将字符串s倒置。</a>
+* <a href="https://github.com/hhe0/source-code-of-the-c-programming-language/blob/master/chap%204/19.md">4.19 定义宏swap(t, x, y)以交换t类型的两个参数。（使用程序块结构会对你有所帮助。）</a>
